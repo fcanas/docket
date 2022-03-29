@@ -33,3 +33,9 @@ is expressed in seconds.
       ]
   }
 ```
+
+## Installing
+
+`brew install fcanas/tap/docket`
+
+Or `brew tap fcanas/tap` and then `brew install docket`.
